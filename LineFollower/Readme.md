@@ -19,6 +19,6 @@ The chassis has been lying around for about 2 years now. So yeah, just put this 
 ### Parts:
 
 
-[Line Follower Sensor](https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2780)
-[Magician Chassis] (https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2151)
-[L298A Driver] (https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2579)
+* [Line Follower Sensor](https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2780)
+* [Magician Chassis] (https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2151)
+* [L298A Driver] (https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2579)

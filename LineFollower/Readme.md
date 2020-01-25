@@ -10,13 +10,15 @@ The motor driver uses the 5V and GND for the logic reference and the Arduino Vin
 
 The code is pretty straight forward and self explanatory. And yea, I haven't written C in a long time and it surely shows in the code ;-)
 
+The chassis has been lying around for about 2 years now. So yeah, just put this together on that one. But perhaps getting a chassis for this build is not worth it. I'll have a next build where I don't plan to use a OTS chassis. Hopefully, that gives good ideas.
+
 ### References:
 
-[Instructable link] (https://www.instructables.com/id/How-to-use-the-L298-Motor-Driver-Module-Arduino-Tu/ "L298A howto")
+[Instructable link for L298A usage] (https://www.instructables.com/id/How-to-use-the-L298-Motor-Driver-Module-Arduino-Tu/)
 
 ### Parts:
 
 
-[Line Follower Sensor](https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2780 "Line Follower Sensor")
-[Magician Chassis] (https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2151 "Magician Chasis")
-[L298A Driver] (https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2579 "Motor Driver")
+[Line Follower Sensor](https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2780)
+[Magician Chassis] (https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2151)
+[L298A Driver] (https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2579)

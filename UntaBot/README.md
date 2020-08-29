@@ -6,6 +6,6 @@ This is the project that I have been wanting to do for over a decade. I have bui
  
  ### Coming Soon
  
- -[ ] Add wiring diagram
- -[ ] Add details on the motor controller
+ - [ ] Add wiring diagram
+ - [ ] Add details on the motor controller
  
